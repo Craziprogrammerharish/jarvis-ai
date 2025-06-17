@@ -1,0 +1,14 @@
+# Ignore Python virtual environments and temporary files
+Lib/
+Scripts/
+pyvenv.cfg
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.egg-info/
+.venv/
+env/
+venv/
